@@ -1,3 +1,4 @@
 # Project exclude paths
 /.dart_tool/
 /build/
+/ios/plugin/AsrPlugin/BDSClientEASRResources/bds_easr_input_model.dat
